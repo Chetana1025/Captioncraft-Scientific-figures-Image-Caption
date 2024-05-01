@@ -1,4 +1,4 @@
-<h3><b>Captioncraft-Scientific-figures-Image-Caption</b>b></h3>
+<h3><b>Captioncraft-Scientific-figures-Image-Caption</b></h3>
 
 <h3>Project Description:</h3>
 CaptionCraft endeavors to develop and evaluate an advanced AI system for generating descriptive captions for scientific figures and plots. Leveraging state-of-the-art techniques in computer vision and natural language processing, the project aims to enhance scientific communication and knowledge dissemination by automating the captioning process for complex visual data. Through meticulous experimentation and evaluation, CaptionCraft assesses the effectiveness of various model architectures and training strategies in generating accurate and informative captions tailored to diverse scientific domains.
